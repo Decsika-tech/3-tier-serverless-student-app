@@ -27,6 +27,40 @@ This improves scalability, security, and maintainability.
 - DynamoDB
 
 ## How to Run the Project
+Follow these steps to run the project.
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/Decsika-tech/3-Tier-Architecture-Serverless-in-AWS-Cloud.git
+```
+### Step 2: Upload Frontend to S3
+1. Go to AWS Console and Open Amazon S3
+2. Create a bucket
+3. Upload the frontend files (HTML, JS)
+4. Enable Static Website Hosting
+
+### Step 3: Create DynamoDB Table
+1. Open DynamoDB
+2. Create a new table
+3. Add a primary key (BookingID or UserID)
+
+### Step 4: Create Lambda Function
+1. Open AWS Lambda
+2. Create a new function using Python
+3. Add code to process API requests
+4. Connect Lambda to DynamoDB
+
+### Step 5: Create API Gateway
+1. Open API Gateway
+2. Create a REST API
+3. Connect the API endpoint to the Lambda function
+4. Deploy the API
+
+### Step 6: Test the Application
+1. Open the S3 website URL
+2. Submit the form
+3. Data will be stored in DynamoDB through Lambda
 
 ## Screenshot
 ![3 Tier Serverless Architecture in AWS](result.png)
