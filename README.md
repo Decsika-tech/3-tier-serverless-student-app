@@ -19,9 +19,6 @@ This improves scalability, security, and maintainability.
 ## Architecture Diagram
 ![3 Tier Serverless Architecture in AWS](architecture.png)
 
-## Screenshot
-![3 Tier Serverless Architecture in AWS](result.png)
-
 ## Technologies Used
 - Cloud Front
 - S3
@@ -31,6 +28,8 @@ This improves scalability, security, and maintainability.
 
 ## How to Run the Project
 
+## Screenshot
+![3 Tier Serverless Architecture in AWS](result.png)
 
 ## Contributing
 Pull requests are welcome! If you find any issues, feel free to open an issue.
