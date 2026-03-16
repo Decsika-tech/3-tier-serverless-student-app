@@ -10,11 +10,11 @@ This project demonstrates a 3-tier serverless architecture using AWS.
 - DynamoDB
 
 ## Architecture Diagram
-![3 Tier Serverless Architecture in AWS](Architecture)
+![3 Tier Serverless Architecture in AWS](architecture.png)
 
 <h2>Architecture Diagram</h2>
 
 <p align="center">
-  <img src="Architecture" width="800">
+  <img src="architecture.png" width="800">
 </p>
 
