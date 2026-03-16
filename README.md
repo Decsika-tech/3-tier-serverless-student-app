@@ -18,3 +18,4 @@ This project demonstrates a 3-tier serverless architecture using AWS.
   <img src="architecture.png" width="800">
 </p>
 
+
