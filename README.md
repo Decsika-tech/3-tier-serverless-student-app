@@ -10,11 +10,11 @@ The architecture separates the application into three layers:
 This improves scalability, security, and maintainability.
 
 ## Features
-- Save student details to database
-- Retrieve and display stored student data
-- Fully serverless architecture
-- Scalable and cost-efficient
-- Global content delivery using CloudFront
+- Save student details to database.
+- Retrieve and display stored student data.
+- Fully serverless architecture.
+- Scalable and cost-efficient.
+- Global content delivery using CloudFront.
 
 ## Architecture Diagram
 ![3 Tier Serverless Architecture in AWS](architecture.png)
